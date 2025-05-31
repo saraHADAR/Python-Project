@@ -1,0 +1,52 @@
+{
+    "total_words": 14,
+    "unique_words": 9,
+    "most_common": [
+        [
+            "Article",
+            2
+        ],
+        [
+            "This",
+            2
+        ],
+        [
+            "is",
+            2
+        ],
+        [
+            "the",
+            2
+        ],
+        [
+            "article",
+            2
+        ]
+    ],
+    "word_locations": [
+        {
+            "item": 0,
+            "field": "title",
+            "start": 6,
+            "end": 13
+        },
+        {
+            "item": 0,
+            "field": "body",
+            "start": 18,
+            "end": 25
+        },
+        {
+            "item": 1,
+            "field": "title",
+            "start": 7,
+            "end": 14
+        },
+        {
+            "item": 1,
+            "field": "body",
+            "start": 19,
+            "end": 26
+        }
+    ]
+}
