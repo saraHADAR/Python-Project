@@ -1,9 +1,0 @@
-Total words: 19
-Unique words: 17
-Most common words:
-  is: 2
-  and: 2
-  This: 1
-  a: 1
-  sample: 1
-Word locations: [89]
