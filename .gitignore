@@ -1,0 +1,21 @@
+# קבצי פייתון זמניים
+__pycache__/
+*.pyc
+*.pyo
+
+# סביבת עבודה וירטואלית
+.venv/
+venv/
+
+# קבצי תוצאה/הרצה
+*.log
+json_result.json
+text_result.txt
+
+# קבצי דוגמה (אם לא רוצים להעלות)
+sample.txt
+sample.json
+
+# קבצי מערכת
+.DS_Store
+Thumbs.db
