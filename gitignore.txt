@@ -1,5 +1,0 @@
-__pycache__/
-sample.txt
-sample.json
-text_result.txt
-json_result.json
